@@ -1,9 +1,6 @@
-import React from 'react';
+import { useState } from 'react';
+import {Link} from 'react-router-dom';
 
-const SignUp = () => {
-  return (
-    <div>SignUp</div>
-  )
-}
+//Manusera os input
+  
 
-export default SignUp; 
